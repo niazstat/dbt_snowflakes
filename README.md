@@ -98,17 +98,9 @@ SCD helps in:
 - Snowflake account
 - Metabase setup (optional for visualization)
 
-### Steps
 
-```sh
-# Initialize dbt project
-dbt init
 
-# Run dbt models
-dbt run
 
-# Execute tests
-dbt test
 
 ## 📈 Future Improvements
 
@@ -122,5 +114,5 @@ dbt test
 
 For any queries or collaboration, reach out at:
 
-- Email: your-email@example.com  
-- LinkedIn: your-profile  
+- Email: niazstat@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/niaz-morshed-46899a47/
